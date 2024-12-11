@@ -1,2 +1,2 @@
-# atividade_django_filmes
-Atividade Avaliativa Individual - Desenvolvimento de Aplicações Web
+# Atividade Avaliativa Individual - Desenvolvimento de Aplicações Web
+Aluna: Maria Aurelice Moreira Cavalcanti
